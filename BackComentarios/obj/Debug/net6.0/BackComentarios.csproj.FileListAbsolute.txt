@@ -25,3 +25,12 @@ G:\tutoriales\programacion\Proyectos Practicas\CrudAngularNetCore\BackComentario
 G:\tutoriales\programacion\Proyectos Practicas\CrudAngularNetCore\BackComentarios\BackComentarios\obj\Debug\net6.0\BackComentarios.pdb
 G:\tutoriales\programacion\Proyectos Practicas\CrudAngularNetCore\BackComentarios\BackComentarios\obj\Debug\net6.0\BackComentarios.genruntimeconfig.cache
 G:\tutoriales\programacion\Proyectos Practicas\CrudAngularNetCore\BackComentarios\BackComentarios\obj\Debug\net6.0\ref\BackComentarios.dll
+G:\tutoriales\programacion\Proyectos Practicas\CrudAngularNetCore\BackComentarios\BackComentarios\bin\Debug\net6.0\Humanizer.dll
+G:\tutoriales\programacion\Proyectos Practicas\CrudAngularNetCore\BackComentarios\BackComentarios\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+G:\tutoriales\programacion\Proyectos Practicas\CrudAngularNetCore\BackComentarios\BackComentarios\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\tutoriales\programacion\Proyectos Practicas\CrudAngularNetCore\BackComentarios\BackComentarios\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+G:\tutoriales\programacion\Proyectos Practicas\CrudAngularNetCore\BackComentarios\BackComentarios\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\tutoriales\programacion\Proyectos Practicas\CrudAngularNetCore\BackComentarios\BackComentarios\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+G:\tutoriales\programacion\Proyectos Practicas\CrudAngularNetCore\BackComentarios\BackComentarios\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+G:\tutoriales\programacion\Proyectos Practicas\CrudAngularNetCore\BackComentarios\BackComentarios\bin\Debug\net6.0\MySqlConnector.dll
+G:\tutoriales\programacion\Proyectos Practicas\CrudAngularNetCore\BackComentarios\BackComentarios\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
